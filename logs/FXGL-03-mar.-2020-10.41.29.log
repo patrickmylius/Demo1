@@ -1,0 +1,338 @@
+10:41:00.610 [main                     ] DEBUG GameApplication      - Logger initialized
+10:41:00.648 [main                     ] DEBUG GameApplication      - Logging settings
+Title: SPENCER - Zealand
+Version: 1.0
+Width: 900
+Height: 900
+Fullscreen: false
+Intro: false
+Menus: true
+Profiling: false
+Single step:false
+App Mode: DEVELOPER
+Menu Key: ESCAPE
+Stage Style: DECORATED
+Scene Factory: class PokeBounce.pokebounce.BasicGameApp$1
+Dialog Factory: class com.almasb.fxgl.ui.FXGLDialogFactory
+UI Factory: class com.almasb.fxgl.ui.FXGLUIFactory
+
+10:41:00.963 [JavaFX Application Thread] DEBUG Engine               - Initializing FXGL
+10:41:00.963 [JavaFX Application Thread] INFO  Engine               - FXGL-11.7 (05.01.2020 09.46) on WINDOWS (J:11.0.4 FX:10.0.2-internal)
+10:41:00.964 [JavaFX Application Thread] INFO  Engine               - Source code and latest versions at: https://github.com/AlmasB/FXGL
+10:41:00.964 [JavaFX Application Thread] INFO  Engine               -              Join the FXGL chat at: https://gitter.im/AlmasB/FXGL
+10:41:00.964 [JavaFX Application Thread] DEBUG Engine               - Initializing environment variables
+10:41:00.967 [JavaFX Application Thread] DEBUG Engine               - Logging environment variables
+10:41:00.967 [JavaFX Application Thread] DEBUG Engine               - achievements: []
+10:41:00.967 [JavaFX Application Thread] DEBUG Engine               - sceneStack: com.almasb.fxgl.app.Engine@2cfdcb25
+10:41:00.968 [JavaFX Application Thread] DEBUG Engine               - language: ObjectProperty [value: ENGLISH]
+10:41:00.968 [JavaFX Application Thread] DEBUG Engine               - isCloseConfirmation: false
+10:41:00.968 [JavaFX Application Thread] DEBUG Engine               - isProfilingEnabled: false
+10:41:00.968 [JavaFX Application Thread] DEBUG Engine               - soundNotification: core/notification.wav
+10:41:00.968 [JavaFX Application Thread] DEBUG Engine               - devShowBBoxProperty: BooleanProperty [value: false]
+10:41:00.970 [JavaFX Application Thread] DEBUG Engine               - pixelsPerMeter: 50.0
+10:41:00.970 [JavaFX Application Thread] DEBUG Engine               - overlayRoot: Group@2ef325df
+10:41:00.970 [JavaFX Application Thread] DEBUG Engine               - appIcon: enemy.png
+10:41:00.970 [JavaFX Application Thread] DEBUG Engine               - soundMenuBack: menu/back.wav
+10:41:00.970 [JavaFX Application Thread] DEBUG Engine               - isFullScreenAllowed: false
+10:41:00.970 [JavaFX Application Thread] DEBUG Engine               - isIntroEnabled: false
+10:41:00.970 [JavaFX Application Thread] DEBUG Engine               - eventBus: com.almasb.fxgl.event.EventBus@5c1cb3d0
+10:41:00.970 [JavaFX Application Thread] DEBUG Engine               - fontMono: lucida_console.ttf
+10:41:00.970 [JavaFX Application Thread] DEBUG Engine               - soundMenuSelect: menu/select.wav
+10:41:00.971 [JavaFX Application Thread] DEBUG Engine               - isWindows: true
+10:41:00.971 [JavaFX Application Thread] DEBUG Engine               - isMobile: false
+10:41:00.971 [JavaFX Application Thread] DEBUG Engine               - height: 900
+10:41:00.971 [JavaFX Application Thread] DEBUG Engine               - isExperimentalNative: false
+10:41:00.971 [JavaFX Application Thread] DEBUG Engine               - cSSList: [fxgl_dark.css]
+10:41:00.971 [JavaFX Application Thread] DEBUG Engine               - isSingleStep: false
+10:41:00.971 [JavaFX Application Thread] DEBUG Engine               - fontGame: Abel-Regular.ttf
+10:41:00.971 [JavaFX Application Thread] DEBUG Engine               - menuKey: ESCAPE
+10:41:00.971 [JavaFX Application Thread] DEBUG Engine               - devShowPositionProperty: BooleanProperty [value: false]
+10:41:00.972 [JavaFX Application Thread] DEBUG Engine               - versionCheckDays: 7
+10:41:00.972 [JavaFX Application Thread] DEBUG Engine               - masterTimer: com.almasb.fxgl.time.Timer@1efaff95
+10:41:00.972 [JavaFX Application Thread] DEBUG Engine               - configClass: Optional.empty
+10:41:00.972 [JavaFX Application Thread] DEBUG Engine               - isFullScreenFromStart: false
+10:41:00.972 [JavaFX Application Thread] DEBUG Engine               - version: 1.0
+10:41:00.972 [JavaFX Application Thread] DEBUG Engine               - fullScreen: BooleanProperty [value: false]
+10:41:00.972 [JavaFX Application Thread] DEBUG Engine               - randomSeed: -1
+10:41:00.972 [JavaFX Application Thread] DEBUG Engine               - dialogFactory: com.almasb.fxgl.ui.FXGLDialogFactory@7935a5ce
+10:41:00.972 [JavaFX Application Thread] DEBUG Engine               - applicationMode: DEVELOPER
+10:41:00.972 [JavaFX Application Thread] DEBUG Engine               - isMac: false
+10:41:00.973 [JavaFX Application Thread] DEBUG Engine               - urlGoogleForms: https://goo.gl/forms/6wrMnOBxTE1fEpOy2
+10:41:00.973 [JavaFX Application Thread] DEBUG Engine               - isMenuEnabled: true
+10:41:00.973 [JavaFX Application Thread] DEBUG Engine               - profileName: user.profile
+10:41:00.973 [JavaFX Application Thread] DEBUG Engine               - urlPOM: https://raw.githubusercontent.com/AlmasB/FXGL/master/pom.xml
+10:41:00.973 [JavaFX Application Thread] DEBUG Engine               - notificationViewClass: class com.almasb.fxgl.notification.view.XboxNotificationView
+10:41:00.973 [JavaFX Application Thread] DEBUG Engine               - devSensorColorProperty: ObjectProperty [value: 0xffff00ff]
+10:41:00.973 [JavaFX Application Thread] DEBUG Engine               - dataFileExt: .dat
+10:41:00.973 [JavaFX Application Thread] DEBUG Engine               - sceneFactory: PokeBounce.pokebounce.BasicGameApp$1@4edfaaea
+10:41:00.973 [JavaFX Application Thread] DEBUG Engine               - stageStyle: DECORATED
+10:41:00.974 [JavaFX Application Thread] DEBUG Engine               - isManualResizeEnabled: false
+10:41:00.974 [JavaFX Application Thread] DEBUG Engine               - title: SPENCER - Zealand
+10:41:00.974 [JavaFX Application Thread] DEBUG Engine               - platform: WINDOWS
+10:41:00.974 [JavaFX Application Thread] DEBUG Engine               - devBBoxColorProperty: ObjectProperty [value: 0xff0000ff]
+10:41:00.974 [JavaFX Application Thread] DEBUG Engine               - isDesktop: true
+10:41:00.974 [JavaFX Application Thread] DEBUG Engine               - credits: []
+10:41:00.974 [JavaFX Application Thread] DEBUG Engine               - globalMusicVolumeProperty: DoubleProperty [value: 0.5]
+10:41:00.974 [JavaFX Application Thread] DEBUG Engine               - uIFactory: com.almasb.fxgl.ui.FXGLUIFactory@77e412d2
+10:41:00.974 [JavaFX Application Thread] DEBUG Engine               - isPreserveResizeRatio: false
+10:41:00.974 [JavaFX Application Thread] DEBUG Engine               - fontText: Courier-Prime.ttf
+10:41:00.975 [JavaFX Application Thread] DEBUG Engine               - isExperimentalTiledLargeMap: false
+10:41:00.975 [JavaFX Application Thread] DEBUG Engine               - secondsIn24h: 60
+10:41:00.975 [JavaFX Application Thread] DEBUG Engine               - runtimeInfo: RuntimeInfo(platform=WINDOWS, version=11.7, build=05.01.2020 09.46)
+10:41:00.975 [JavaFX Application Thread] DEBUG Engine               - isLinux: false
+10:41:00.975 [JavaFX Application Thread] DEBUG Engine               - urlGithub: https://github.com/AlmasB/FXGL
+10:41:00.975 [JavaFX Application Thread] DEBUG Engine               - soundMenuPress: menu/press.wav
+10:41:00.975 [JavaFX Application Thread] DEBUG Engine               - profileDir: profiles/
+10:41:00.975 [JavaFX Application Thread] DEBUG Engine               - isDeveloperMenuEnabled: false
+10:41:00.975 [JavaFX Application Thread] DEBUG Engine               - globalSoundVolumeProperty: DoubleProperty [value: 0.5]
+10:41:00.975 [JavaFX Application Thread] DEBUG Engine               - isBrowser: false
+10:41:00.976 [JavaFX Application Thread] DEBUG Engine               - urlLeaderboard: http://fxgl-top.herokuapp.com/
+10:41:00.976 [JavaFX Application Thread] DEBUG Engine               - globalSoundVolume: 0.5
+10:41:00.976 [JavaFX Application Thread] DEBUG Engine               - saveDir: saves/
+10:41:00.976 [JavaFX Application Thread] DEBUG Engine               - engineServices: [class com.almasb.fxgl.audio.AudioPlayer, class com.almasb.fxgl.notification.impl.NotificationServiceProvider, class com.almasb.fxgl.achievement.AchievementManager, class com.almasb.fxgl.cutscene.CutsceneService, class com.almasb.fxgl.minigames.MiniGameService]
+10:41:00.976 [JavaFX Application Thread] DEBUG Engine               - globalMusicVolume: 0.5
+10:41:00.976 [JavaFX Application Thread] DEBUG Engine               - width: 900
+10:41:00.976 [JavaFX Application Thread] DEBUG Engine               - saveFileExt: .sav
+10:41:00.976 [JavaFX Application Thread] DEBUG Engine               - isAndroid: false
+10:41:00.976 [JavaFX Application Thread] DEBUG Engine               - fontUI: VarelaRound-Regular.ttf
+10:41:00.976 [JavaFX Application Thread] DEBUG Engine               - isIOS: false
+10:41:00.977 [JavaFX Application Thread] DEBUG Engine               - enabledMenuItems: []
+10:41:00.979 [JavaFX Application Thread] DEBUG Engine               - Adding new engine service: class com.almasb.fxgl.audio.AudioPlayer
+10:41:00.980 [JavaFX Application Thread] DEBUG Engine               - Adding new engine service: class com.almasb.fxgl.notification.impl.NotificationServiceProvider
+10:41:00.980 [JavaFX Application Thread] DEBUG Engine               - Adding new engine service: class com.almasb.fxgl.achievement.AchievementManager
+10:41:00.980 [JavaFX Application Thread] DEBUG Engine               - Adding new engine service: class com.almasb.fxgl.cutscene.CutsceneService
+10:41:00.981 [JavaFX Application Thread] DEBUG Engine               - Adding new engine service: class com.almasb.fxgl.minigames.MiniGameService
+10:41:00.983 [JavaFX Application Thread] DEBUG Engine               - Loading localizations
+10:41:00.985 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/properties/languages/english.properties
+10:41:00.987 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/properties/languages/french.properties
+10:41:00.989 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/properties/languages/german.properties
+10:41:00.990 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/properties/languages/russian.properties
+10:41:00.992 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/properties/languages/hungarian.properties
+10:41:00.995 [JavaFX Application Thread] DEBUG Engine               - Registering font factories
+10:41:00.995 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/ui/fonts/VarelaRound-Regular.ttf
+10:41:01.267 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/ui/fonts/Abel-Regular.ttf
+10:41:01.278 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/ui/fonts/lucida_console.ttf
+10:41:01.288 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/ui/fonts/Courier-Prime.ttf
+10:41:01.299 [JavaFX Application Thread] DEBUG Engine               - Setting UI factory
+10:41:01.384 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/textures/fxgl_logo.png
+10:41:01.447 [JavaFX Application Thread] DEBUG MainWindow           - Creating a JavaFX scene
+10:41:01.448 [JavaFX Application Thread] DEBUG MainWindow           - Target size > screen size
+10:41:01.495 [JavaFX Application Thread] DEBUG MainWindow           - Target settings size: 900.0 x 900.0
+10:41:01.495 [JavaFX Application Thread] DEBUG MainWindow           - Scaled scene size:    799.0 x 824.0
+10:41:01.495 [JavaFX Application Thread] DEBUG MainWindow           - Scaled ratio: (0.8877777777777778, 0.9155555555555556)
+10:41:01.496 [JavaFX Application Thread] DEBUG MainWindow           - Set initial scene to FXGLStartupScene
+10:41:01.506 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/textures/enemy.png
+10:41:01.508 [JavaFX Application Thread] DEBUG Engine               - Applying CSS: fxgl_dark.css
+10:41:01.509 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/ui/css/fxgl_dark.css
+10:41:01.512 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/ui/cursors/fxgl_default.png
+10:41:01.514 [JavaFX Application Thread] DEBUG MainWindow           - Opening main window
+10:41:01.692 [JavaFX Application Thread] DEBUG MainWindow           - Window border size: (14.5999755859375, 37.5999755859375)
+10:41:01.693 [JavaFX Application Thread] DEBUG MainWindow           - Scaled size: 799.0 x 824.0
+10:41:01.693 [JavaFX Application Thread] DEBUG MainWindow           - Scaled ratio: (0.8877777777777778, 0.9155555555555556)
+10:41:01.693 [JavaFX Application Thread] DEBUG MainWindow           - Scene size: 799.0 x 824.0
+10:41:01.693 [JavaFX Application Thread] DEBUG MainWindow           - Stage size: 813.5999755859375 x 861.5999755859375
+10:41:01.711 [FXGL Background Thread 1 ] DEBUG FS                   - Loaded FSServiceImpl
+10:41:01.711 [FXGL Background Thread 1 ] DEBUG Engine               - Loading FXGL system data
+10:41:01.717 [FXGL Background Thread 1 ] DEBUG FSServiceImpl        - Reading from: C:\Users\Patrick\Desktop\Demo1\system\fxgl.bundle
+10:41:01.730 [FXGL Background Thread 1 ] DEBUG Engine               - Bundle FXGL: {}
+10:41:01.731 [FXGL Background Thread 1 ] DEBUG Engine               - Initializing application scenes
+10:41:01.769 [FXGL Background Thread 1 ] DEBUG GameWorld            - Game world initialized
+10:41:01.842 [FXGL Background Thread 1 ] DEBUG PhysicsWorld         - Physics world initialized: appHeight=900, physics.ppm=50,0
+10:41:01.845 [FXGL Background Thread 1 ] DEBUG GameScene            - Game scene initialized: 900x900
+10:41:01.885 [FXGL Background Thread 1 ] DEBUG AssetLoader          - Loading from file system: /assets/textures/MainMenu.gif
+10:41:02.243 [FXGL Background Thread 1 ] DEBUG AssetLoader          - Loading from file system: /assets/textures/mainMenu.gif
+10:41:02.420 [FXGL Background Thread 1 ] DEBUG Engine               - Application scenes initialized
+10:41:02.423 [JavaFX Application Thread] DEBUG Engine               - Running preInit()
+10:41:02.429 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Move Right - D
+10:41:02.429 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Move Left - A
+10:41:02.429 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Move Up - W
+10:41:02.429 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Move Down - S
+10:41:02.430 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Screenshot - P
+10:41:02.430 [JavaFX Application Thread] DEBUG Input                - Registered new binding: System info dump - CTRL+9
+10:41:02.430 [JavaFX Application Thread] DEBUG Input                - Registered new binding: Restart - CTRL+R
+10:41:02.430 [JavaFX Application Thread] DEBUG Engine               - generateDefaultProfile()
+10:41:02.430 [JavaFX Application Thread] DEBUG Engine               - Creating default profile
+10:41:02.430 [JavaFX Application Thread] DEBUG EventBus             - Firing event: SaveEvent
+10:41:02.439 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from file system: /assets/music/MainMenuMusic.mp3
+10:41:02.563 [JavaFX Application Thread] DEBUG AudioPlayer          - Playing music com.almasb.fxgl.audio.Music@1cabb638
+10:41:02.564 [JavaFX Application Thread] INFO  Engine               - FXGL initialization took: 1,581 sec
+10:41:02.564 [JavaFX Application Thread] DEBUG LoopRunner           - Starting loop
+10:41:02.567 [JavaFX Application Thread] DEBUG FXGLStartupScene     - STARTUP
+10:41:02.570 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+10:41:02.595 [JavaFX Application Thread] DEBUG Engine               - Removing overlay from FXGLStartupScene and adding to PokeBounceMainMenu
+10:41:02.596 [JavaFX Application Thread] DEBUG MainWindow           - FXGLStartupScene -> PokeBounceMainMenu
+10:41:03.683 [JavaFX Application Thread] DEBUG Menu                 - fireNewGame()
+10:41:03.683 [JavaFX Application Thread] DEBUG Engine               - Starting new game
+10:41:03.689 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+10:41:03.689 [FXGL Background Thread 1 ] DEBUG InitAppTask          - Clearing previous game
+10:41:03.689 [FXGL Background Thread 1 ] DEBUG GameWorld            - Clearing game world
+10:41:03.690 [FXGL Background Thread 1 ] DEBUG PhysicsWorld         - Clearing physics world
+10:41:03.690 [FXGL Background Thread 1 ] DEBUG GameScene            - Clearing game scene
+10:41:03.690 [FXGL Background Thread 1 ] DEBUG InitAppTask          - Initializing Game
+10:41:03.691 [FXGL Background Thread 1 ] DEBUG AudioPlayer          - Stopping music com.almasb.fxgl.audio.Music@1cabb638
+10:41:03.704 [JavaFX Application Thread] DEBUG Engine               - Removing overlay from PokeBounceMainMenu and adding to LoadingScene
+10:41:03.704 [JavaFX Application Thread] DEBUG MainWindow           - PokeBounceMainMenu -> LoadingScene
+10:41:03.787 [FXGL Background Thread 1 ] DEBUG AssetLoader          - Loading from file system: /assets/music/InGameMusic.mp3
+10:41:03.793 [FXGL Background Thread 1 ] DEBUG AudioPlayer          - Playing music com.almasb.fxgl.audio.Music@5839a25c
+10:41:03.801 [FXGL Background Thread 1 ] DEBUG AssetLoader          - Loading from file system: /assets/sounds/NewEvilPuffEntry.wav
+10:41:03.810 [FXGL Background Thread 1 ] DEBUG AssetLoader          - Loading from file system: /assets/sounds/NewCoinEntry.wav
+10:41:03.813 [FXGL Background Thread 1 ] DEBUG AssetLoader          - Loading from file system: /assets/sounds/PowerUpSpawn.wav
+10:41:03.818 [FXGL Background Thread 1 ] DEBUG AssetLoader          - Loading from file system: /assets/textures/enemy.gif
+10:41:03.833 [FXGL Background Thread 1 ] DEBUG AssetLoader          - Loading from file system: /assets/textures/newPlayer.gif
+10:41:03.836 [FXGL Background Thread 1 ] DEBUG AssetLoader          - Loading from file system: /assets/textures/NewBackGround900.gif
+10:41:03.916 [FXGL Background Thread 1 ] DEBUG InitAppTask          - Initializing Physics
+10:41:03.917 [FXGL Background Thread 1 ] DEBUG InitAppTask          - Initializing UI
+10:41:03.919 [FXGL Background Thread 1 ] DEBUG InitAppTask          - Initialization Complete
+10:41:03.920 [FXGL Background Thread 1 ] INFO  InitAppTask          - Game initialization took: 0,229 sec
+10:41:03.924 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+10:41:03.932 [JavaFX Application Thread] DEBUG Engine               - Removing overlay from LoadingScene and adding to GameScene
+10:41:03.932 [JavaFX Application Thread] DEBUG MainWindow           - LoadingScene -> GameScene
+10:41:03.941 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:03.945 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:03.955 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:03.955 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:03.971 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:03.972 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:03.988 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:03.988 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.003 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.004 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.020 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.021 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.051 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.053 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.068 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.069 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.084 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.085 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.100 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.101 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.117 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.118 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.132 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.133 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.148 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.149 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.163 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.165 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.180 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.181 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.196 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.197 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.212 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.213 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.228 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.229 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.244 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.246 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.259 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.261 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.276 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.277 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.291 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.292 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.308 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.308 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.323 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.324 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.339 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.340 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.355 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.356 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.372 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.373 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.388 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.389 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.403 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.404 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.420 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.421 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.452 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.453 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.483 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.484 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.499 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.500 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.515 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.515 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.532 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.532 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.547 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.548 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.563 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.564 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.579 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.579 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.595 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.596 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.611 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.612 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.628 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.629 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.644 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.644 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.668 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.669 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.676 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.676 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.692 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.692 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.708 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.708 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.724 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.724 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.739 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.739 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.767 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.769 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.772 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.772 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.787 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.787 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.803 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.804 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.820 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.820 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.837 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.837 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.867 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.867 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.883 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.883 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.899 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.900 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.915 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.915 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.931 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.931 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.948 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.948 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.964 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.964 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.979 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.980 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:04.996 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:04.996 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:05.044 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/enemy.gif
+10:41:05.045 [JavaFX Application Thread] DEBUG AssetLoader          - Loading from cache: /assets/textures/newPlayer.gif
+10:41:05.052 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+10:41:05.058 [JavaFX Application Thread] DEBUG Engine               - Removing overlay from GameScene and adding to PokeBounceGameMenu
+10:41:05.058 [JavaFX Application Thread] DEBUG MainWindow           - GameScene -> PokeBounceGameMenu
+10:41:06.546 [JavaFX Application Thread] DEBUG MainWindow           - Push state: DialogSubState
+10:41:06.546 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+10:41:06.552 [JavaFX Application Thread] DEBUG Engine               - Removing overlay from PokeBounceGameMenu and adding to DialogSubState
+10:41:06.552 [JavaFX Application Thread] DEBUG MainWindow           - PokeBounceGameMenu -> DialogSubState
+10:41:07.552 [JavaFX Application Thread] DEBUG MainWindow           - Pop state: DialogSubState
+10:41:07.552 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+10:41:07.553 [JavaFX Application Thread] DEBUG Engine               - Removing overlay from DialogSubState and adding to PokeBounceGameMenu
+10:41:07.553 [JavaFX Application Thread] DEBUG MainWindow           - PokeBounceGameMenu <- DialogSubState
+10:41:07.553 [JavaFX Application Thread] DEBUG Input                - Clearing active input actions
+10:41:07.558 [JavaFX Application Thread] DEBUG Engine               - Removing overlay from PokeBounceGameMenu and adding to PokeBounceMainMenu
+10:41:07.559 [JavaFX Application Thread] DEBUG MainWindow           - PokeBounceGameMenu -> PokeBounceMainMenu
+10:41:07.559 [JavaFX Application Thread] DEBUG AudioPlayer          - Stopping music com.almasb.fxgl.audio.Music@5839a25c
+10:41:07.671 [JavaFX Application Thread] DEBUG AudioPlayer          - Playing music com.almasb.fxgl.audio.Music@1cabb638
+10:41:29.462 [JavaFX Application Thread] DEBUG Engine               - Exiting FXGL
+10:41:29.462 [JavaFX Application Thread] DEBUG Engine               - Shutting down background threads
+10:41:29.462 [JavaFX Application Thread] DEBUG Engine               - Saving FXGL system data
+10:41:29.465 [JavaFX Application Thread] DEBUG FSServiceImpl        - Writing to: C:\Users\Patrick\Desktop\Demo1\system\fxgl.bundle
+10:41:29.469 [JavaFX Application Thread] DEBUG Engine               - Closing logger and exiting JavaFX

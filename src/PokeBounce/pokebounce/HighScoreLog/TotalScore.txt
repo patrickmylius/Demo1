@@ -1,0 +1,15 @@
+************************************
+PokeBounce High Scores 
+************************************
+Player Patrick: your score ended as: 500
+************************************
+Player Daller: your score ended as: 500
+************************************
+Player Patrick: your score ended as: 6500
+************************************
+Player Andreas: your score ended as: 6500
+************************************
+Player Morten: your score ended as: 12500
+************************************
+Player Test: your score ended as: 4750
+************************************
